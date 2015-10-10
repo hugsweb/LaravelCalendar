@@ -1,3 +1,6 @@
+## Screenshot of calendar with minimal configuration
+![Screenshot](img/screenshot.png)
+
 ## Installation
 
 Install the package through [Composer](http://getcomposer.org/). Edit your project's `composer.json` file by adding:
